@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:- Baby First
+#EXTINF:- http://45.71.200.254:8000/playlist/tvg-logo/a03i.png Baby First
 http://45.71.200.254:8000/play/a03i/index.m3u8
-#EXTINF:- Boomerang
+#EXTINF:- http://45.71.200.254:8000/playlist/tvg-logo/a0g0.png Boomerang
 http://45.71.200.254:8000/play/a0g0/index.m3u8
 #EXTINF:- Cartoon Network HD
 http://45.71.200.254:8000/play/a0l0/index.m3u8
