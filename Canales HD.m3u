@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,AZCINEMA
+http://177.234.230.226:8010/play/a01o/index.m3u8
 #EXTINF:-1,A&E HD 
 http://181.39.202.98:9948/play/a10i/index.m3u8
 #EXTINF:-1,AXN HD
@@ -111,4 +113,3 @@ http://190.61.102.67:31589/play/a04c/index.m3u8
 http://190.60.39.17:4000/play/a01i/index.m3u8
 #EXTINF:-1,SyFy
 http://177.234.242.242:50032/play/a02q/index.m3u8
-
