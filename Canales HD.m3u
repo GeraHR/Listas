@@ -91,7 +91,5 @@ http://45.228.232.204:16000/play/a06g/index.m3u8
 http://190.61.102.67:31589/play/a08f/index.m3u8
 #EXTINF:-1,Exa Tv
 http://45.228.232.204:16000/play/a06j/index.m3u8
-#EXTINF:-1,TeleHit HD
-http://204.199.119.14:1979/play/a01f/index.m3u8
 #EXTINF:-1,Teleritmo
-http://190.61.102.67:31589/play/a03u/Index.m3u8
+http://190.61.102.67:31589/play/a03u/index.m3u8
