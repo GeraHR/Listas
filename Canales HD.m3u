@@ -108,6 +108,6 @@ http://201.222.45.69:8000/play/a00c/index.m3u8
 #EXTINF:-1,VideoRola
 http://190.61.102.67:31589/play/a04c/index.m3u8
 #EXTINF:-1,HTV
-http://190.61.102.67:444/play/a02a/index.m3u8
+http://190.61.102.67:444/play/a02a
 #EXTINF:-1,Teen Nick HD
-http://190.61.102.67:444/play/a04l/index.m3u8
+http://190.61.102.67:444/play/a04l
