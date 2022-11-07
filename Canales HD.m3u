@@ -141,8 +141,6 @@ http://190.61.102.67:31589/play/a03u/index.m3u8
 http://181.78.11.117:8000/play/a04e/index.m3u8
 #EXTINF:-1,Univision HD
 http://181.39.202.98:9948/play/a142/index.m3u8
-#EXTINF:-1,Warner Channel HD
-http://181.39.202.98:9948/play/a10k/index.m3u8
 #EXTINF:-1,Unicable HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/173
 #EXTINF:-1,Universal Channel HD
@@ -161,5 +159,7 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/101
 http://190.61.102.67:31589/play/a04c/index.m3u8
 #EXTINF:-1,VH1 Classico
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/177
+#EXTINF:-1,Warner Channel HD
+http://181.39.202.98:9948/play/a10k/index.m3u8
 #EXTINF:-1,Zona Latina
 http://190.60.39.17:4000/play/a01i/index.m3u8
