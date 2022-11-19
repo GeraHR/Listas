@@ -45,7 +45,7 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/85
 http://8.242.187.233:5800/play/a08q/index.m3u8
 #EXTINF:-1,Discovery World HD
 http://181.78.11.117:8000/play/a06s/index.m3u8
-#EXTINF:-1, E! HD
+#EXTINF:-1,E! HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/86
 #EXTINF:-1,ESPN 2 HD
 http://8.242.187.233:5800/play/a0bs/index.m3u8
@@ -57,7 +57,7 @@ http://8.242.187.233:5800/play/a0br/index.m3u8
 http://45.228.232.204:16000/play/a06j/index.m3u8
 #EXTINF:-1,FX HD
 http://200.24.159.165:9966/play/a01m/index.m3u8
-#EXTINF:-1, FXM HD
+#EXTINF:-1,FXM HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/112
 #EXTINF:-1,Fox Sports
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/105
@@ -73,6 +73,8 @@ http://8.242.187.233:5800/play/a0b8/index.m3u8
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/129
 #EXTINF:-1,HBO Family HD
 http://8.242.187.233:5800/play/a0au/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://45.228.234.185:8000/play/a0l4/index.m3u8
 #EXTINF:-1,HBO Xtreme HD
 http://8.242.187.233:5800/play/a0aw/index.m3u8
 #EXTINF:-1,HBO2 HD
@@ -85,6 +87,8 @@ http://8.242.187.233:5800/play/a0at/index.m3u8
 http://8.242.187.233:5800/play/a086/index.m3u8
 #EXTINF:-1,MTV Live HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/753
+#EXTINF:-1,MTV 00s HD
+http://45.228.234.185:8000/play/a0i0/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://8.242.187.233:5800/play/a0cb/index.m3u8
 #EXTINF:-1,Nick 2 HD
@@ -99,20 +103,24 @@ http://45.228.232.204:16000/play/a06y/index.m3u8
 http://8.242.187.233:5800/play/a08o/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://8.242.187.233:5800/play/a08s/index.m3u8
-#EXTINF:-1,Ritmosonlatino HD
+#EXTINF:-1,Portal Fox Music HD
+http://45.189.117.32:7579/play/a0n9/index.m3u8
+#EXTINF:-1,Ritmo Son latino HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/141
+#EXTINF:-1,Retro Plus HD
+http://45.189.117.32:7579/play/a0n0/index.m3u8
 #EXTINF:-1,Star Channel HD
 http://8.242.187.233:5800/play/a08v/index.m3u8
 #EXTINF:-1,Sony HD
 http://8.242.187.233:5800/play/a08x/index.m3u8
+#EXTINF:-1,Sony Movies HD
+http://45.228.234.185:8000/play/a0gx/index.m3u8
 #EXTINF:-1,Space HD
 http://8.242.187.233:5800/play/a09y/index.m3u8
 #EXTINF:-1,SyFy
 http://177.234.242.242:50032/play/a02q/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://8.242.187.233:5800/play/a08a/index.m3u8
-#EXTINF:-1,Sony Movies HD
-http://45.228.232.204:16000/play/a04h/index.m3u8
 #EXTINF:-1,TNT HD
 http://8.242.187.233:5800/play/a08i/index.m3u8
 #EXTINF:-1,TNT Series HD
@@ -133,6 +141,8 @@ http://190.61.102.67:31589/play/a03u/index.m3u8
 http://181.78.11.117:8000/play/a04e/index.m3u8
 #EXTINF:-1,Unicable HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/173
+#EXTINF:-1,Univision HD
+http://45.228.234.185:8000/play/a0kr/index.m3u8
 #EXTINF:-1,Universal Channel HD
 http://181.78.11.117:8000/play/a02m/index.m3u8
 #EXTINF:-1,Universal Cinema HD
@@ -149,4 +159,7 @@ http://190.61.102.67:31589/play/a04c/index.m3u8
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/177
 #EXTINF:-1,Warner Channel HD
 http://8.242.187.233:5800/play/a08w/index.m3u8
-
+#EXTINF:-1,XXX Sextreme HD
+http://45.189.117.32:7579/play/a046/index.m3u8
+#EXTINF:-1,XXX Playboy HD
+http://45.189.117.32:7579/play/a0p0/index.m3u8
