@@ -57,6 +57,53 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/112
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/757
 #EXTINF:-1,Golden Plus HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/117
+#EXTINF:-1,HBO HD
+http://8.242.187.233:5800/play/a0b8/index.m3u8
+#EXTINF:-1,HBO Pop HD
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/129
+#EXTINF:-1,HBO Family HD
+http://8.242.187.233:5800/play/a0au/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://45.228.234.185:8000/play/a0l4/index.m3u8
+#EXTINF:-1,HBO Xtreme HD
+http://8.242.187.233:5800/play/a0aw/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3146
+#EXTINF:-1,History Channel HD
+http://8.242.187.233:5800/play/a087/index.m3u8
+#EXTINF:-1,History 2 HD
+http://8.242.187.233:5800/play/a0at/index.m3u8
+#EXTINF:-1,MTV HD
+http://200.76.0.24:8000/play/a03l/index.m3u8
+#EXTINF:-1,MTV Live HD
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/753
+#EXTINF:-1,MTV 00s HD
+http://45.228.234.185:8000/play/a0i0/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://8.242.187.233:5800/play/a0cb/index.m3u8
+#EXTINF:-1,Nick 2 HD
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/585
+#EXTINF:-1,Nick JR HD
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/137
+#EXTINF:-1,Nicktoons HD
+http://200.76.0.24:8000/play/a03n/index.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://45.228.232.204:16000/play/a06y/index.m3u8
+#EXTINF:-1,Paramount HD
+http://8.242.187.233:5800/play/a08o/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://8.242.187.233:5800/play/a08s/index.m3u8
+#EXTINF:-1,Portal Fox Music HD
+http://45.189.117.32:7579/play/a0n9/index.m3u8
+#EXTINF:-1,Ritmo Son latino HD
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/141
+#EXTINF:-1,Retro Plus HD
+http://45.189.117.32:7579/play/a0n0/index.m3u8
+#EXTINF:-1,Star Channel HD
+http://8.242.187.233:5800/play/a08v/index.m3u8
+#EXTINF:-1,Sony HD
+http://8.242.187.233:5800/play/a08x/index.m3u8
+#EXTINF:-1,Sony Movies HD
 http://45.228.234.185:8000/play/a0gx/index.m3u8
 #EXTINF:-1,Space HD
 http://8.242.187.233:5800/play/a09y/index.m3u8
