@@ -142,7 +142,7 @@ http://45.228.232.204:16000/play/a066/index.m3u8
 #EXTINF:-1,Teleritmo
 http://190.61.102.67:31589/play/a03u/index.m3u8
 #EXTINF:-1,Telehit HD
-http://181.78.11.117:8000/play/a04e/index.m3u8
+http://45.233.169.25:8000/play/a02l
 #EXTINF:-1,Unicable HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/173
 #EXTINF:-1,Univision HD
@@ -162,8 +162,6 @@ http://190.61.102.67:31589/play/a04c/index.m3u8
 #EXTINF:-1,VH1 Classico
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/177
 #EXTINF:-1,Warner Channel HD
-http://8.242.187.233:5800/play/a08w/index.m3u8
+http://45.233.169.25:8000/play/a02p
 #EXTINF:-1,XXX Sextreme HD
 http://45.189.117.32:7579/play/a046/index.m3u8
-#EXTINF:-1,XXX Playboy HD
-http://45.189.117.32:7579/play/a0p0/index.m3u8
