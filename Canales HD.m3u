@@ -69,6 +69,8 @@ http://8.243.104.159:8083/play/a01s/index.m3u8
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/105
 #EXTINF:-1,Fox Sports 3 HD
 http://45.233.169.25:8000/play/a01c
+#EXTINF:-1,Golden
+http://45.189.117.32:7579/play/a0r9/index.m3u8
 #EXTINF:-1,Golden HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/757
 #EXTINF:-1,Golden Plus HD
@@ -167,3 +169,5 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/177
 http://200.76.0.24:8000/play/a062/index.m3u8
 #EXTINF:-1,XXX Sextreme HD
 http://45.189.117.32:7579/play/a046/index.m3u8
+#EXTINF:-1,XXX Playboy HD
+http://45.189.117.32:7579/play/a0p0/index.m3u8
