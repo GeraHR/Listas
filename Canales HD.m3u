@@ -69,8 +69,8 @@ http://8.243.104.159:8083/play/a01s/index.m3u8
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/105
 #EXTINF:-1,Fox Sports 3 HD
 http://45.233.169.25:8000/play/a01c
-#EXTINF:-1,Golden
-http://45.189.117.32:7579/play/a0r9/index.m3u8
+#EXTINF:-1,Golden SD
+http://201.159.115.175:2000/play/a047/index.m3u8
 #EXTINF:-1,Golden HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/757
 #EXTINF:-1,Golden Plus HD
