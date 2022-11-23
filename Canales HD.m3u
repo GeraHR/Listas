@@ -58,7 +58,7 @@ http://45.233.169.25:8000/play/a014
 #EXTINF:-1,ESPN 4 HD
 http://45.233.169.25:8000/play/a015
 #EXTINF:-1,Exa Tv
-http://45.228.232.204:16000/play/a06j/index.m3u8
+http://200.76.0.24:8000/play/a05z/index.m3u8
 #EXTINF:-1,FX HD
 http://200.76.0.24:8000/play/a03v/index.m3u8
 #EXTINF:-1,FXM HD
@@ -91,6 +91,8 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3146
 http://8.242.187.233:5800/play/a087/index.m3u8
 #EXTINF:-1,History 2 HD
 http://8.242.187.233:5800/play/a0at/index.m3u8
+#EXTINF:-1,HTV Música
+http://45.189.117.32:7579/play/a0rl/index.m3u8
 #EXTINF:-1,MTV HD
 http://200.76.0.24:8000/play/a03l/index.m3u8
 #EXTINF:-1,MTV Live HD
@@ -163,6 +165,8 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/98
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/101
 #EXTINF:-1,VideoRola
 http://190.61.102.67:31589/play/a04c/index.m3u8
+#EXTINF:-1,Venus Música HD
+http://45.189.117.32:7579/play/a0n7/index.m3u8
 #EXTINF:-1,VH1 Classico
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/177
 #EXTINF:-1,Warner Channel HD
