@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1,Az Cinema HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/50
 #EXTINF:-1,Az Clic HD
-http://45.228.232.204:16000/play/a04j/index.m3u8
+http://45.5.117.239:8000/play/a02t/index.m3u8
 #EXTINF:-1,Az Mundo
-http://45.228.232.204:16000/play/a067/index.m3u8
-#EXTINF:-1,Az Corazón HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/51
+http://45.5.117.239:8000/play/a06b/index.m3u8
+#EXTINF:-1,Az Corazón 
+http://45.5.117.239:8000/play/a01w/index.m3u8
 #EXTINF:-1,A&E HD 
 http://8.242.187.233:5800/play/a08e/index.m3u8
 #EXTINF:-1,AXN HD
@@ -16,13 +14,13 @@ http://8.242.187.233:5800/play/a08c/index.m3u8
 #EXTINF:-1,Bandamax HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/55
 #EXTINF:-1,Boomerang HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/58
+http://45.5.117.239:8000/play/a01s/index.m3u8
 #EXTINF:-1,Cartoon Network HD 
 http://45.233.169.25:8000/play/a00i
 #EXTINF:-1,Cinecanal HD
 http://8.242.187.233:5800/play/a08y/index.m3u8
 #EXTINF:-1,Cinemax HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/66
+http://201.244.106.58:8990/play/a01i/index.m3u8
 #EXTINF:-1,Comedy Central HD
 http://8.242.187.233:5800/play/a08l/index.m3u8
 #EXTINF:-1,Claro Sports HD
@@ -30,7 +28,7 @@ http://201.159.115.175:2000/play/a08u/index.m3u8
 #EXTINF:-1,Claro Sports 2 HD
 http://201.159.115.175:2000/play/a08x/index.m3u8
 #EXTINF:-1,Discovery H&H HD
-http://200.24.159.165:9966/play/a017/index.m3u8
+http://201.244.106.58:8990/play/a01l/index.m3u8
 #EXTINF:-1,Disney Jr HD
 http://45.233.169.25:8000/play/a010
 #EXTINF:-1,Discovery Kids HD
@@ -43,14 +41,14 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/75
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/80
 #EXTINF:-1,De Película HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/69
-#EXTINF:-1,Distrito Comedia HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/85
+#EXTINF:-1,Distrito Comedia 
+http://200.52.154.125:8000/play/a06v/index.m3u8
 #EXTINF:-1,Discovery HD
 http://8.242.187.233:5800/play/a08q/index.m3u8
 #EXTINF:-1,Discovery World HD
 http://181.78.11.117:8000/play/a06s/index.m3u8
 #EXTINF:-1,E! HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/86
+http://45.189.117.32:7579/play/a0ry/index.m3u8
 #EXTINF:-1,ESPN 2 HD
 http://45.233.169.25:8000/play/a013
 #EXTINF:-1,ESPN 3 HD
@@ -58,15 +56,13 @@ http://45.233.169.25:8000/play/a014
 #EXTINF:-1,ESPN 4 HD
 http://45.233.169.25:8000/play/a015
 #EXTINF:-1,Exa Tv
-http://200.76.0.24:8000/play/a05z/index.m3u8
+http://190.61.102.67:31589/play/a06e/index.m3u8
 #EXTINF:-1,FX HD
 http://200.76.0.24:8000/play/a03v/index.m3u8
-#EXTINF:-1,FXM HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/112
 #EXTINF:-1,Fox Sports HD
-http://8.243.104.159:8083/play/a01s/index.m3u8
+http://45.189.117.32:7579/play/a0js/index.m3u8
 #EXTINF:-1,Fox Sports 2 HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/105
+http://201.244.106.58:8990/play/a00u/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD
 http://45.233.169.25:8000/play/a01c
 #EXTINF:-1,Golden SD
@@ -74,7 +70,7 @@ http://201.159.115.175:2000/play/a047/index.m3u8
 #EXTINF:-1,Golden HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/757
 #EXTINF:-1,Golden Plus HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/117
+http://45.189.117.32:7579/play/a0rv/index.m3u8
 #EXTINF:-1,HBO HD
 http://8.242.187.233:5800/play/a0b8/index.m3u8
 #EXTINF:-1,HBO Pop HD
@@ -94,29 +90,25 @@ http://8.242.187.233:5800/play/a0at/index.m3u8
 #EXTINF:-1,HTV Música
 http://45.189.117.32:7579/play/a0rl/index.m3u8
 #EXTINF:-1,MTV HD
-http://200.76.0.24:8000/play/a03l/index.m3u8
+http://45.5.117.239:8000/play/a03b/index.m3u8
 #EXTINF:-1,MTV Live HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/753
+http://200.52.154.125:8000/play/a05t/index.m3u8
 #EXTINF:-1,MTV 00s HD
 http://45.228.234.185:8000/play/a0i0/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://8.242.187.233:5800/play/a0cb/index.m3u8
 #EXTINF:-1,Nick 2 HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/585
+http://200.52.154.125:8000/play/a01u/index.m3u8
 #EXTINF:-1,Nick JR HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/137
-#EXTINF:-1,Nicktoons HD
-http://200.76.0.24:8000/play/a03n/index.m3u8
+http://200.52.154.125:8000/play/a04u/index.m3u8
 #EXTINF:-1,Nickelodeon HD
-http://45.228.232.204:16000/play/a06y/index.m3u8
+http://200.52.154.125:8000/play/a05s/index.m3u8
 #EXTINF:-1,Paramount HD
 http://8.242.187.233:5800/play/a08o/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://8.242.187.233:5800/play/a08s/index.m3u8
 #EXTINF:-1,Portal Fox Music HD
 http://45.189.117.32:7579/play/a0n9/index.m3u8
-#EXTINF:-1,Ritmo Son latino HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/141
 #EXTINF:-1,Retro Plus HD
 http://45.189.117.32:7579/play/a0n0/index.m3u8
 #EXTINF:-1,Star Channel HD
@@ -127,18 +119,16 @@ http://8.242.187.233:5800/play/a08x/index.m3u8
 http://45.228.234.185:8000/play/a0gx/index.m3u8
 #EXTINF:-1,Space HD
 http://8.242.187.233:5800/play/a09y/index.m3u8
-#EXTINF:-1,SyFy
-http://177.234.242.242:50032/play/a02q/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://8.242.187.233:5800/play/a08a/index.m3u8
 #EXTINF:-1,TNT HD
 http://8.242.187.233:5800/play/a08i/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://8.242.187.233:5800/play/a08p/index.m3u8
-#EXTINF:-1,TuDN HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/160
-#EXTINF:-1,Telenovelas HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/155
+#EXTINF:-1,TuDN 
+http://190.61.102.67:31589/play/a08j/index.m3u8
+#EXTINF:-1,Telenovelas 
+http://45.5.117.239:8000/play/a070/index.m3u8
 #EXTINF:-1,Telemundo HD
 http://45.228.232.204:16000/play/a04e/index.m3u8
 #EXTINF:-1,TLC HD
@@ -149,28 +139,16 @@ http://45.228.232.204:16000/play/a066/index.m3u8
 http://190.61.102.67:31589/play/a03u/index.m3u8
 #EXTINF:-1,Telehit HD
 http://45.189.117.32:7579/play/a0rw/index.m3u8
-#EXTINF:-1,Unicable HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/173
 #EXTINF:-1,Univision HD
 http://45.228.234.185:8000/play/a0kr/index.m3u8
 #EXTINF:-1,Universal Channel HD
 http://181.78.11.117:8000/play/a02m/index.m3u8
-#EXTINF:-1,Universal Cinema HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/99
-#EXTINF:-1,Universal Comedy HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/754
-#EXTINF:-1,Universal Crimen HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/98
-#EXTINF:-1,Universal Reality
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/101
 #EXTINF:-1,VideoRola
 http://190.61.102.67:31589/play/a04c/index.m3u8
 #EXTINF:-1,Venus Música HD
 http://45.189.117.32:7579/play/a0n7/index.m3u8
-#EXTINF:-1,VH1 Classico
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/177
 #EXTINF:-1,Warner Channel HD
-http://200.76.0.24:8000/play/a062/index.m3u8
+http://200.52.154.125:8000/play/a02y/index.m3u8
 #EXTINF:-1,XXX Sextreme HD
 http://45.189.117.32:7579/play/a046/index.m3u8
 #EXTINF:-1,XXX Playboy HD
