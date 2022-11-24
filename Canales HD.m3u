@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Az Clic HD
+#EXTINF:-1,Az Clic
 http://45.5.117.239:8000/play/a02t/index.m3u8
 #EXTINF:-1,Az Mundo
 http://45.5.117.239:8000/play/a06b/index.m3u8
@@ -11,8 +11,6 @@ http://8.242.187.233:5800/play/a08e/index.m3u8
 http://8.242.187.233:5800/play/a09x/index.m3u8
 #EXTINF:-1,Animal Planet HD 
 http://8.242.187.233:5800/play/a08c/index.m3u8
-#EXTINF:-1,Bandamax HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/55
 #EXTINF:-1,Boomerang HD
 http://45.5.117.239:8000/play/a01s/index.m3u8
 #EXTINF:-1,Cartoon Network HD 
@@ -65,10 +63,8 @@ http://45.189.117.32:7579/play/a0js/index.m3u8
 http://201.244.106.58:8990/play/a00u/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD
 http://45.233.169.25:8000/play/a01c
-#EXTINF:-1,Golden SD
+#EXTINF:-1,Golden 
 http://201.159.115.175:2000/play/a047/index.m3u8
-#EXTINF:-1,Golden HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/757
 #EXTINF:-1,Golden Plus HD
 http://45.189.117.32:7579/play/a0rv/index.m3u8
 #EXTINF:-1,HBO HD
