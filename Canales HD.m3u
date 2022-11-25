@@ -89,7 +89,7 @@ http://45.189.117.32:7579/play/a0rl/index.m3u8
 http://45.5.117.239:8000/play/a03b/index.m3u8
 #EXTINF:-1,MTV Live HD
 http://200.52.154.125:8000/play/a05t/index.m3u8
-#EXTINF:-1,MTV 00s 
+#EXTINF:-1,MTV00s 
 http://45.228.234.185:8000/play/a0i0/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://8.242.187.233:5800/play/a0cb/index.m3u8
@@ -107,15 +107,15 @@ http://8.242.187.233:5800/play/a08o/index.m3u8
 http://8.242.187.233:5800/play/a08s/index.m3u8
 #EXTINF:-1,Portal Fox Music 
 http://45.189.117.32:7579/play/a0n9/index.m3u8
-#EXTINF:-1,Retro Plus HD
+#EXTINF:-1,Retro Plus 
 http://45.189.117.32:7579/play/a0n0/index.m3u8
 #EXTINF:-1,Spotify 
 http://140.238.155.232:9000/jmsytb.m3u8?c=53
-#EXTINF:-1,Star Channel HD
+#EXTINF:-1,Star Channel 
 http://8.242.187.233:5800/play/a08v/index.m3u8
 #EXTINF:-1,Sony HD
 http://8.242.187.233:5800/play/a08x/index.m3u8
-#EXTINF:-1,Sony Movies HD
+#EXTINF:-1,Sony Movies 
 http://45.228.234.185:8000/play/a0gx/index.m3u8
 #EXTINF:-1,Space HD
 http://8.242.187.233:5800/play/a09y/index.m3u8
