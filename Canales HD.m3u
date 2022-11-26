@@ -27,7 +27,7 @@ http://8.242.187.233:5800/play/a08l/index.m3u8
 http://201.159.115.175:2000/play/a08u/index.m3u8
 #EXTINF:-1,Claro Sports 2 
 http://201.159.115.175:2000/play/a08x/index.m3u8
-#EXTINF:-1,Discovery H&H 
+#EXTINF:-1,Discovery Home & Healt
 http://201.244.106.58:8990/play/a01l/index.m3u8
 #EXTINF:-1,Disney Jr 
 http://45.233.169.25:8000/play/a010
@@ -67,6 +67,12 @@ http://201.244.106.58:8990/play/a00u/index.m3u8
 http://45.233.169.25:8000/play/a01c
 #EXTINF:-1,Golden 
 http://201.159.115.175:2000/play/a047/index.m3u8
+#EXTINF:-1,Golden Plus
+http://200.48.19.141:10021/play/a003
+#EXTINF:-1,Golden Premiere
+http://45.174.84.154:8000/play/a00g/index.m3u8
+#EXTINF:-1,Golden Premiere 2
+http://45.174.84.154:8000/play/a00h/index.m3u8
 #EXTINF:-1,HBO HD
 http://8.242.187.233:5800/play/a0b8/index.m3u8
 #EXTINF:-1,HBO Pop HD
@@ -85,6 +91,14 @@ http://8.242.187.233:5800/play/a087/index.m3u8
 http://8.242.187.233:5800/play/a0at/index.m3u8
 #EXTINF:-1,HTV Música
 http://45.189.117.32:7579/play/a0rl/index.m3u8
+#EXTINF:-1,MIMusica HD Salsa
+http://201.182.251.148:8000/play/a035
+#EXTINF:-1,MiMusica HD Popular
+http://201.182.251.148:8000/play/a034
+#EXTINF:-1,MiMusica HD Reggaetoon
+http://201.182.251.148:8000/play/a033
+#EXTINF:-1,MiMusica HD Romantica
+http://201.182.251.148:8000/play/a036
 #EXTINF:-1,MTV HD
 http://45.5.117.239:8000/play/a03b/index.m3u8
 #EXTINF:-1,MTV Live HD
@@ -127,7 +141,7 @@ http://8.242.187.233:5800/play/a08i/index.m3u8
 http://8.242.187.233:5800/play/a08p/index.m3u8
 #EXTINF:-1,TuDN 
 http://190.61.102.67:31589/play/a08j/index.m3u8
-#EXTINF:-1,Telenovelas 
+#EXTINF:-1,Tln
 http://45.5.117.239:8000/play/a070/index.m3u8
 #EXTINF:-1,Telemundo 
 http://45.228.232.204:16000/play/a04e/index.m3u8
@@ -149,7 +163,3 @@ http://190.61.102.67:31589/play/a04c/index.m3u8
 http://45.189.117.32:7579/play/a0n7/index.m3u8
 #EXTINF:-1,Warner Channel HD
 http://200.52.154.125:8000/play/a02y/index.m3u8
-#EXTINF:-1,Sextreme
-http://45.189.117.32:7579/play/a046/index.m3u8
-#EXTINF:-1,Playboy Tv
-http://45.189.117.32:7579/play/a0p0/index.m3u8
