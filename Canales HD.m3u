@@ -57,12 +57,12 @@ http://45.233.169.25:8000/play/a015
 http://190.61.102.67:31589/play/a06e/index.m3u8
 #EXTINF:-1,FX HD
 http://200.76.0.24:8000/play/a03v/index.m3u8
-#EXTINF:-1,Fox Sports HD
-http://45.189.117.32:7579/play/a0js/index.m3u8
+#EXTINF:-1,Fox Sports 
+http://45.181.121.57:2909/play/209
 #EXTINF:-1,Fox Sports 2 HD
-http://201.244.106.58:8990/play/a00u/index.m3u8
+http://45.160.15.130:2909/play/210
 #EXTINF:-1,Fox Sports 3 HD
-http://45.233.169.25:8000/play/a01c
+http://45.160.15.130:2909/play/211
 #EXTINF:-1,Golden 
 http://201.159.115.175:2000/play/a047/index.m3u8
 #EXTINF:-1,Golden Plus
@@ -132,7 +132,7 @@ http://45.189.117.32:7579/play/a0n0/index.m3u8
 #EXTINF:-1,Spotify 
 http://140.238.155.232:9000/jmsytb.m3u8?c=53
 #EXTINF:-1,Star Channel 
-http://179.0.98.34:8000/play/a03h/index.m3u8
+http://45.160.15.130:2909/play/083
 #EXTINF:-1,Sony HD
 http://8.242.187.233:5800/play/a08x/index.m3u8
 #EXTINF:-1,Sony Movies 
