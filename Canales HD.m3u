@@ -78,7 +78,7 @@ http://45.174.84.154:8000/play/a00r/index.m3u8
 #EXTINF:-1,HBO Pop HD
 http://170.239.188.253:50000/play/a02u/index.m3u8
 #EXTINF:-1,HBO Family HD
-http://45.174.84.154:8000/play/a00u/index.m3u8
+http://170.239.188.253:50000/play/a02d/index.m3u8
 #EXTINF:-1,HBO Plus HD
 http://45.228.234.185:8000/play/a0l4/index.m3u8
 #EXTINF:-1,HBO Xtreme 
@@ -149,8 +149,6 @@ http://8.242.187.233:5800/play/a08i/index.m3u8
 http://8.242.187.233:5800/play/a08p/index.m3u8
 #EXTINF:-1,TuDN 
 http://190.61.102.67:31589/play/a08j/index.m3u8
-#EXTINF:-1,Tln
-http://45.5.117.239:8000/play/a070/index.m3u8
 #EXTINF:-1,Telemundo 
 http://45.228.232.204:16000/play/a04e/index.m3u8
 #EXTINF:-1,TLC HD
