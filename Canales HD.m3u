@@ -14,7 +14,7 @@ http://8.242.187.233:5800/play/a09x/index.m3u8
 #EXTINF:-1,Animal Planet HD 
 http://8.242.187.233:5800/play/a08c/index.m3u8
 #EXTINF:-1,Boomerang HD
-http://45.5.117.239:8000/play/a01s/index.m3u8
+http://45.174.84.154:8000/play/a02w/index.m3u8
 #EXTINF:-1,Cartoon Network HD 
 http://45.233.169.25:8000/play/a00i
 #EXTINF:-1,Cinecanal HD
@@ -34,11 +34,9 @@ http://45.233.169.25:8000/play/a010
 #EXTINF:-1,Discovery Kids HD
 http://8.242.187.233:5800/play/a099/index.m3u8
 #EXTINF:-1,Disney Channel HD
-http://181.78.11.117:8000/play/a043/index.m3u8
+http://45.160.15.130:2909/play/010
 #EXTINF:-1,Discovery ID HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/75
-#EXTINF:-1,Discovery Turbo HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/80
+http://45.174.84.154:8000/play/a025/index.m3u8
 #EXTINF:-1,De Película HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/69
 #EXTINF:-1,Distrito Comedia 
@@ -74,11 +72,11 @@ http://45.174.84.154:8000/play/a00g/index.m3u8
 #EXTINF:-1,Golden Premiere 2
 http://45.174.84.154:8000/play/a00h/index.m3u8
 #EXTINF:-1,HBO HD
-http://8.242.187.233:5800/play/a0b8/index.m3u8
+http://45.174.84.154:8000/play/a00r/index.m3u8
 #EXTINF:-1,HBO Pop HD
 http://170.239.188.253:50000/play/a02u/index.m3u8
 #EXTINF:-1,HBO Family HD
-http://8.242.187.233:5800/play/a0au/index.m3u8
+http://45.174.84.154:8000/play/a00u/index.m3u8
 #EXTINF:-1,HBO Plus HD
 http://45.228.234.185:8000/play/a0l4/index.m3u8
 #EXTINF:-1,HBO Xtreme 
@@ -91,7 +89,7 @@ http://8.242.187.233:5800/play/a087/index.m3u8
 http://8.242.187.233:5800/play/a0at/index.m3u8
 #EXTINF:-1,HTV Música
 http://45.189.117.32:7579/play/a0rl/index.m3u8
-#EXTINF:-1,MIMusica Salsa
+#EXTINF:-1,MiMusica Salsa
 http://201.182.251.148:8000/play/a035
 #EXTINF:-1,MiMusica Popular
 http://201.182.251.148:8000/play/a034
@@ -99,8 +97,16 @@ http://201.182.251.148:8000/play/a034
 http://201.182.251.148:8000/play/a033
 #EXTINF:-1,MiMusica Romantica
 http://201.182.251.148:8000/play/a036
+#EXTINF:-1,MX Family HD
+http://45.160.15.130:2909/play/120
+#EXTINF:-1,MX Classic HD
+http://45.160.15.130:2909/play/121
+#EXTINF:-1,MX Prime HD
+http://45.160.15.130:2909/play/122
+#EXTINF:-1,MX Old HD
+http://45.160.15.130:2909/play/123
 #EXTINF:-1,MTV HD
-http://45.5.117.239:8000/play/a03b/index.m3u8
+http://200.48.19.141:10021/play/a00h
 #EXTINF:-1,MTV Live HD
 http://200.52.154.125:8000/play/a05t/index.m3u8
 #EXTINF:-1,MTV00s 
@@ -126,7 +132,7 @@ http://45.189.117.32:7579/play/a0n0/index.m3u8
 #EXTINF:-1,Spotify 
 http://140.238.155.232:9000/jmsytb.m3u8?c=53
 #EXTINF:-1,Star Channel 
-http://8.242.187.233:5800/play/a08v/index.m3u8
+http://179.0.98.34:8000/play/a03h/index.m3u8
 #EXTINF:-1,Sony HD
 http://8.242.187.233:5800/play/a08x/index.m3u8
 #EXTINF:-1,Sony Movies 
@@ -163,3 +169,5 @@ http://190.61.102.67:31589/play/a04c/index.m3u8
 http://45.189.117.32:7579/play/a0n7/index.m3u8
 #EXTINF:-1,Warner Channel HD
 http://200.52.154.125:8000/play/a02y/index.m3u8
+#EXTINF:-1,XXX
+http://51.15.2.9:1051/play/a081
