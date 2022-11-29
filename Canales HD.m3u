@@ -150,7 +150,7 @@ http://45.228.232.204:16000/play/a04e/index.m3u8
 #EXTINF:-1,TLC HD
 http://45.228.232.204:16000/play/a06g/index.m3u8
 #EXTINF:-1,Tooncast 
-http://201.159.115.175:2000/play/a04g/index.m3u8
+http://45.189.117.32:7579/play/a03i/index.m3u8
 #EXTINF:-1,Teleritmo
 http://190.61.102.67:31589/play/a03u/index.m3u8
 #EXTINF:-1,Telehit HD
