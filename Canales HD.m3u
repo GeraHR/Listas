@@ -145,6 +145,8 @@ http://45.228.234.185:8000/play/a0gx/index.m3u8
 http://200.48.19.141:10021/play/a00u
 #EXTINF:-1,Studio Universal HD
 http://200.48.19.141:10021/play/a01o
+#EXTINF:-1,TBS
+http://8.242.187.233:5800/play/a0bn/index.m3u8
 #EXTINF:-1,TNT HD
 http://45.160.15.130:2909/play/109
 #EXTINF:-1,TNT Series HD
