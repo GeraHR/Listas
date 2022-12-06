@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1,Azteca 7 
+#EXTINF:-1,Azteca 7 HD
 http://45.174.84.154:8000/play/a02a/index.m3u8
-#EXTINF:-1,Azteca uno
+#EXTINF:-1,Azteca Uno HD
 http://45.174.84.154:8000/play/a02b/index.m3u8
-#EXTINF:-1,Canal 5
+#EXTINF:-1,Canal 5 HD
 http://45.174.84.154:8000/play/a02i/index.m3u8
-#EXTINF:-1,Canal 2
+#EXTINF:-1,Las Estrellas HD
 http://45.174.84.154:8000/play/a02h/index.m3u8
 #EXTINF:-1,Az Cinema 
 http://170.239.188.253:50000/play/a01b/index.m3u8
@@ -93,22 +93,22 @@ http://200.48.19.141:10021/play/a00p
 http://8.242.187.233:5800/play/a0at/index.m3u8
 #EXTINF:-1,HTV
 http://201.159.115.175:2000/play/a046/index.m3u8
-#EXTINF:-1,Mi Musica Salsa
+#EXTINF:-1,Love Nature HD
+http://200.48.19.140:10021/play/a00e
+#EXTINF:-1,Movie Motion
+http://181.176.148.142:8000/play/a02r
+#EXTINF:-1,Musica Salsa
 http://201.182.251.148:8000/play/a035
-#EXTINF:-1,Mi Musica Popular
+#EXTINF:-1,Musica Popular
 http://201.182.251.148:8000/play/a034
-#EXTINF:-1,Mi Musica Reggaetoon
+#EXTINF:-1,Musica Reggaetoon
 http://201.182.251.148:8000/play/a033
-#EXTINF:-1,Mi Musica Romantica
+#EXTINF:-1,Musica Kpop
+http://181.129.186.36:8089/play/a011/index.m3u8
+#EXTINF:-1,Musica Romantica
 http://201.182.251.148:8000/play/a036
-#EXTINF:-1,MX Family HD
-http://45.160.15.130:2909/play/120
-#EXTINF:-1,MX Classic HD
-http://45.160.15.130:2909/play/121
-#EXTINF:-1,MX Prime HD
-http://45.160.15.130:2909/play/122
-#EXTINF:-1,MX Old HD
-http://45.160.15.130:2909/play/123
+#EXTINF:-1,Musica Hits
+http://181.129.186.36:8089/play/a00y/index.m3u8
 #EXTINF:-1,MTV HD
 http://200.48.19.141:10021/play/a00h
 #EXTINF:-1,MTV Live HD
@@ -141,8 +141,14 @@ http://45.228.234.185:8000/play/a0gx/index.m3u8
 http://200.48.19.141:10021/play/a00u
 #EXTINF:-1,Studio Universal HD
 http://200.48.19.141:10021/play/a01o
+#EXTINF:-1,Sextreme
+http://200.48.19.140:10021/play/a036
+#EXTINF:-1,Sexy Hot HD
+http://200.4.96.59:1080/play/a056/index.m3u8
 #EXTINF:-1,TBS
 http://8.242.187.233:5800/play/a0bn/index.m3u8
+#EXTINF:-1,TBS HD
+http://200.48.19.140:10021/play/a03x
 #EXTINF:-1,TNT HD
 http://45.160.15.130:2909/play/109
 #EXTINF:-1,TNT Series HD
