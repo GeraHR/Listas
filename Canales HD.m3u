@@ -145,8 +145,6 @@ http://200.48.19.141:10021/play/a01o
 http://200.48.19.140:10021/play/a036
 #EXTINF:-1,Sexy Hot HD
 http://200.4.96.59:1080/play/a056/index.m3u8
-#EXTINF:-1,TBS
-http://8.242.187.233:5800/play/a0bn/index.m3u8
 #EXTINF:-1,TBS HD
 http://200.48.19.140:10021/play/a03x
 #EXTINF:-1,TNT HD
@@ -160,11 +158,11 @@ http://45.228.232.204:16000/play/a04e/index.m3u8
 #EXTINF:-1,TLC HD
 http://45.228.232.204:16000/play/a06g/index.m3u8
 #EXTINF:-1,Tooncast 
-http://201.159.115.175:2000/play/a04g/index.m3u8
+http://190.97.172.4:8000/play/a02y/index.m3u8
 #EXTINF:-1,Teleritmo
 http://190.61.102.67:31589/play/a03u/index.m3u8
 #EXTINF:-1,Telehit HD
-http://45.233.169.25:8000/play/a02l
+http://200.48.19.140:10021/play/a004
 #EXTINF:-1,Univision 
 http://45.228.234.185:8000/play/a0kr/index.m3u8
 #EXTINF:-1,Universal Channel 
