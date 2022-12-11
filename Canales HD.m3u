@@ -72,13 +72,13 @@ http://45.174.84.154:8000/play/a00h/index.m3u8
 #EXTINF:-1,HBO 
 http://45.174.84.154:8000/play/a00r/index.m3u8
 #EXTINF:-1,HBO2 
-http://45.7.135.243:8002/play/a051
+http://200.48.19.140:10021/play/a01r
 #EXTINF:-1,HBO Pop 
 http://45.181.122.17:4000/play/a04t
 #EXTINF:-1,HBO Family 
 http://177.234.254.38:8000/play/a02d/index.m3u8
 #EXTINF:-1,HBO Plus 
-http://45.238.21.106:6688/play/a019/index.m3u8
+http://167.250.222.35:16000/play/a042/index.m3u8
 #EXTINF:-1,HBO Xtreme 
 http://45.7.135.243:8002/play/a058
 #EXTINF:-1,History Channel 
