@@ -16,7 +16,7 @@ http://177.234.254.38:8000/play/a086/index.m3u8
 #EXTINF:-1,AMC 
 http://45.228.234.185:8000/play/a0gu/index.m3u8
 #EXTINF:-1,Animal Planet  
-http://45.7.135.243:8002/play/a05o
+http://190.83.119.67:8000/play/a0q4/index.m3u8
 #EXTINF:-1,Bandamax
 http://45.5.117.138:8005/play/a002/index.m3u8
 #EXTINF:-1,Boomerang 
@@ -24,11 +24,11 @@ http://190.83.119.67:8000/play/a0pa/index.m3u8
 #EXTINF:-1,Cartoon Network 
 http://45.181.122.17:4000/play/a04q
 #EXTINF:-1,Cinecanal 
-http://200.48.19.141:10021/play/a01h
+http://45.181.122.17:4000/play/a04o
 #EXTINF:-1,Cine Premium
 http://181.129.186.36:8089/play/a00u/index.m3u8
-#EXTINF:-1,Cinemax 
-http://45.7.135.243:8002/play/a05i
+#EXTINF:-1,Cinemax
+http://200.48.19.140:10021/play/a019
 #EXTINF:-1,Comedy Central 
 http://190.115.15.177:58003/play/a00x/index.m3u8
 #EXTINF:-1,Claro Sports 
@@ -40,13 +40,13 @@ http://45.233.169.25:8000/play/a010
 #EXTINF:-1,Discovery Kids 
 http://45.7.135.243:8002/play/a04w
 #EXTINF:-1,Disney Channel 
-http://45.181.122.17:4000/play/a00k
+http://131.196.194.2:8000/play/a0he/index.m3u8
 #EXTINF:-1,Discovery ID 
 http://45.174.84.154:8000/play/a025/index.m3u8
 #EXTINF:-1,Distrito Comedia 
 http://45.5.117.138:8005/play/a005/index.m3u8
 #EXTINF:-1,Discovery 
-http://200.48.19.141:10021/play/a00k
+http://45.181.122.17:4000/play/a00k
 #EXTINF:-1,Discovery World 
 http://181.78.11.117:8000/play/a06s/index.m3u8
 #EXTINF:-1,E! 
@@ -63,6 +63,8 @@ http://45.181.121.57:2909/play/209
 http://45.160.15.130:2909/play/210
 #EXTINF:-1,Fox Sports 3 
 http://45.160.15.130:2909/play/211
+#EXTINF:-1,Golden
+http://45.162.132.145:8850/play/a01z/index.m3u8
 #EXTINF:-1,Golden Plus
 http://200.48.19.141:10021/play/a003
 #EXTINF:-1,Golden Premiere
@@ -120,9 +122,9 @@ http://200.48.19.141:10021/play/a00r
 #EXTINF:-1,Sony Movies 
 http://45.228.234.185:8000/play/a0gx/index.m3u8
 #EXTINF:-1,Space 
-http://200.48.19.141:10021/play/a00u
+http://190.97.172.4:8000/play/a01b/index.m3u8
 #EXTINF:-1,Studio Universal 
-http://200.48.19.141:10021/play/a01o
+http://190.97.172.4:8000/play/a01d/index.m3u8
 #EXTINF:-1,Sextreme
 http://200.48.19.140:10021/play/a036
 #EXTINF:-1,Sexy Hot 
@@ -150,7 +152,7 @@ http://45.5.117.138:8005/play/a001/index.m3u8
 #EXTINF:-1,Univision 
 http://45.228.234.185:8000/play/a0kr/index.m3u8
 #EXTINF:-1,Universal Channel 
-http://190.83.119.67:8000/play/a0q2/index.m3u8
+http://200.48.19.140:10021/play/a01y
 #EXTINF:-1,VideoRola
 http://190.61.102.67:31589/play/a04c/index.m3u8
 #EXTINF:-1,Warner Channel 
