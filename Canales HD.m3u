@@ -129,6 +129,8 @@ http://190.97.172.4:8000/play/a01d/index.m3u8
 http://200.48.19.140:10021/play/a036
 #EXTINF:-1,Sexy Hot 
 http://200.4.96.59:1080/play/a056/index.m3u8
+#EXTINF:-1,Erox
+http://94.229.250.73:8008/play/a002
 #EXTINF:-1,TBS 
 http://200.48.19.140:10021/play/a03x
 #EXTINF:-1,TNT 
