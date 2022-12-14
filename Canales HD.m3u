@@ -74,15 +74,13 @@ http://45.174.84.154:8000/play/a00h/index.m3u8
 #EXTINF:-1,HBO 
 http://45.174.84.154:8000/play/a00r/index.m3u8
 #EXTINF:-1,HBO2 
-http://200.48.19.140:10021/play/a01r
-#EXTINF:-1,HBO Pop 
-http://45.181.122.17:4000/play/a04t
+http://190.83.119.67:8000/play/a0os/index.m3u8
 #EXTINF:-1,HBO Family 
 http://177.234.254.38:8000/play/a02d/index.m3u8
 #EXTINF:-1,HBO Plus 
 http://167.250.222.35:16000/play/a042/index.m3u8
 #EXTINF:-1,HBO Xtreme 
-http://200.48.19.140:10021/play/a00n
+http://190.83.119.67:8000/play/a0ov/index.m3u8
 #EXTINF:-1,History Channel 
 http://45.179.164.9:8000/play/a039/index.m3u8
 #EXTINF:-1,History 2 
@@ -116,7 +114,7 @@ http://200.48.19.141:10021/play/a011
 #EXTINF:-1,Spotify 
 http://140.238.155.232:9000/jmsytb.m3u8?c=53
 #EXTINF:-1,Star Channel 
-http://45.181.122.17:4000/play/a04u
+http://190.83.119.67:8000/play/a0si/index.m3u8
 #EXTINF:-1,Sony 
 http://200.48.19.141:10021/play/a00r
 #EXTINF:-1,Sony Movies 
