@@ -70,7 +70,7 @@ http://45.5.117.138:8005/play/a002/index.m3u8
 #EXTINF:-1,Boomerang 
 http://190.83.119.67:8000/play/a0pa/index.m3u8
 #EXTINF:-1,Cartoon Network 
-http://200.52.154.125:8000/play/a00h/index.m3u8
+http://167.250.222.35:16000/play/a03y/index.m3u8
 #EXTINF:-1,Cinecanal 
 http://190.115.15.177:58003/play/a00k/index.m3u8
 #EXTINF:-1,Cine Premium
@@ -164,13 +164,15 @@ http://140.238.155.232:9000/jmsytb.m3u8?c=53
 #EXTINF:-1,Star Channel 
 http://190.83.119.67:8000/play/a0si/index.m3u8
 #EXTINF:-1,Sony 
-http://200.48.19.141:10021/play/a00r
+http://167.250.222.35:16000/play/a06n/index.m3u8
 #EXTINF:-1,Sony Movies 
 http://45.228.234.185:8000/play/a0gx/index.m3u8
 #EXTINF:-1,Space 
-http://190.97.172.4:8000/play/a01b/index.m3u8
+http://167.250.222.35:16000/play/a07p/index.m3u8
 #EXTINF:-1,Studio Universal 
-http://190.97.172.4:8000/play/a01d/index.m3u8
+http://167.250.222.35:16000/play/a047/index.m3u8
+#EXTINF:-1,Sun Channel 
+http://181.78.21.37:8000/play/a031/index.m3u8
 #EXTINF:-1,Sextreme
 http://200.48.19.140:10021/play/a036
 #EXTINF:-1,Sexy Hot 
@@ -190,7 +192,7 @@ http://45.228.232.204:16000/play/a04e/index.m3u8
 #EXTINF:-1,TLC 
 http://45.228.232.204:16000/play/a06g/index.m3u8
 #EXTINF:-1,Tooncast 
-http://190.83.119.67:8000/play/a0s3/index.m3u8
+http://167.250.222.35:16000/play/a066/index.m3u8
 #EXTINF:-1,Teleritmo
 http://190.61.102.67:31589/play/a03u/index.m3u8
 #EXTINF:-1,Telehit Musica
