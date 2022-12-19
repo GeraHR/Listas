@@ -141,6 +141,12 @@ http://181.176.148.142:8000/play/a02r
 http://190.83.119.67:8000/play/a0ue/index.m3u8
 #EXTINF:-1,Musica Hits
 http://181.129.186.36:8089/play/a00y/index.m3u8
+#EXTINF:-1,Musica Kpop
+http://181.129.186.36:8089/play/a011/index.m3u8
+#EXTINF:-1,Musica Popular
+http://181.129.186.36:8089/play/a010/index.m3u8
+#EXTINF:-1,Musica Reggeaton
+http://181.129.186.36:8089/play/a00z/index.m3u8
 #EXTINF:-1,MTV 
 http://45.179.164.9:8000/play/a03b/index.m3u8
 #EXTINF:-1,MTV Live 
