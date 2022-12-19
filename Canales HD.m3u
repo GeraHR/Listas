@@ -50,11 +50,11 @@ http://cdn.adultiptv.net/asian.m3u8
 #EXTINF:-1,Azteca 7 
 http://45.174.84.154:8000/play/a02a/index.m3u8
 #EXTINF:-1,Azteca Uno 
-http://45.174.84.154:8000/play/a02b/index.m3u8
+http://45.5.117.138:8005/play/a00m/index.m3u8
 #EXTINF:-1,Canal 5 
-http://45.174.84.154:8000/play/a02i/index.m3u8
+http://45.5.117.138:8005/play/a006/index.m3u8
 #EXTINF:-1,Las Estrellas 
-http://45.174.84.154:8000/play/a02h/index.m3u8
+http://45.5.117.138:8005/play/a00j/index.m3u8
 #EXTINF:-1,Az Clic
 http://160.20.164.171:8001/play/a094/index.m3u8
 #EXTINF:-1,A&E 
