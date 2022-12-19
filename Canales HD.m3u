@@ -81,8 +81,6 @@ http://45.160.15.130:2909/play/112
 http://190.115.15.177:58003/play/a00x/index.m3u8
 #EXTINF:-1,Claro Sports 
 http://45.174.84.154:8000/play/a00n/index.m3u8
-#EXTINF:-1,Claro Sports 2 
-http://201.159.115.175:2000/play/a08x/index.m3u8
 #EXTINF:-1,Disney Jr 
 http://45.233.169.25:8000/play/a010
 #EXTINF:-1,Discovery Kids 
@@ -150,19 +148,13 @@ http://45.228.234.185:8000/play/a0i0/index.m3u8
 #EXTINF:-1,Nat Geo 
 http://190.115.15.177:58003/play/a00a/index.m3u8
 #EXTINF:-1,Nick2 
-http://200.52.154.125:8000/play/a01u/index.m3u8
-#EXTINF:-1,Nick JR 
-http://200.52.154.125:8000/play/a04u/index.m3u8
+http://190.83.119.67:8000/play/a0q1/index.m3u8
 #EXTINF:-1,Nickelodeon 
-http://200.52.154.125:8000/play/a05s/index.m3u8
+http://167.250.222.35:16000/play/a092/index.m3u8
 #EXTINF:-1,Paramount Channel 
-http://200.48.19.140:10021/play/a01n
-#EXTINF:-1,Pasiones 
-http://200.48.19.141:10021/play/a011
-#EXTINF:-1,Spotify 
-http://140.238.155.232:9000/jmsytb.m3u8?c=53
+http://190.83.119.67:8000/play/a0t9/index.m3u8
 #EXTINF:-1,Star Channel 
-http://190.83.119.67:8000/play/a0si/index.m3u8
+http://45.190.185.210:8080/play/a0b5
 #EXTINF:-1,Sony 
 http://167.250.222.35:16000/play/a06n/index.m3u8
 #EXTINF:-1,Sony Movies 
@@ -174,9 +166,9 @@ http://167.250.222.35:16000/play/a047/index.m3u8
 #EXTINF:-1,Sun Channel 
 http://181.78.21.37:8000/play/a031/index.m3u8
 #EXTINF:-1,Sextreme
-http://200.48.19.140:10021/play/a036
+http://200.4.96.59:1080/play/a04s/index.m3u8
 #EXTINF:-1,Sexy Hot 
-http://200.4.96.59:1080/play/a056/index.m3u8
+http://200.4.96.59:1080/play/a04u/index.m3u8
 #EXTINF:-1,Erox
 http://94.229.250.73:8008/play/a002
 #EXTINF:-1,TBS 
@@ -195,8 +187,6 @@ http://45.228.232.204:16000/play/a06g/index.m3u8
 http://167.250.222.35:16000/play/a066/index.m3u8
 #EXTINF:-1,Teleritmo
 http://190.61.102.67:31589/play/a03u/index.m3u8
-#EXTINF:-1,Telehit Musica
-http://200.48.19.140:10021/play/a004
 #EXTINF:-1,Telehit
 http://45.5.117.138:8005/play/a001/index.m3u8
 #EXTINF:-1,Univision 
