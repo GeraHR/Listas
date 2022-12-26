@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Las Estrellas 
-http://45.174.84.154:8000/play/a02h/index.m3u8
-#EXTINF:-1,Canal 5
-http://45.174.84.154:8000/play/a02i/index.m3u8
-#EXTINF:-1,Azteca 7 
-http://45.174.84.154:8000/play/a02a/index.m3u8
-#EXTINF:-1,Azteca Uno
-http://45.174.84.154:8000/play/a02b/index.m3u8
 #EXTINF:-1,Az Cinema 
 http://170.239.188.253:50000/play/a01b/index.m3u8
 #EXTINF:-1,Az Clic
@@ -66,7 +58,7 @@ http://45.160.15.130:2909/play/211
 #EXTINF:-1,Golden
 http://167.250.222.35:16000/play/a05l/index.m3u8
 #EXTINF:-1,Golden Edge
-http://200.69.85.98:8000/udp/239.0.6.19:1234
+http://201.182.251.146:37581/play/a02e/index.m3u8
 #EXTINF:-1,Golden Plus
 http://170.239.188.253:50000/play/a00n/index.m3u8
 #EXTINF:-1,Golden Premiere
