@@ -63,6 +63,8 @@ http://170.239.188.253:50000/play/a00s/index.m3u8
 http://177.234.254.38:8000/play/a01g/index.m3u8
 #EXTINF:-1,Exa Tv
 http://190.61.102.67:31589/play/a06e/index.m3u8
+#EXTINF:-1,Fan Pop
+http://45.176.193.20:7837/play/a06e
 #EXTINF:-1,FX 
 http://8.243.104.157:8083/play/a010/index.m3u8
 #EXTINF:-1,Fox Sports 
@@ -74,7 +76,7 @@ http://45.160.15.130:2909/play/211
 #EXTINF:-1,Golden
 http://167.250.222.35:16000/play/a05l/index.m3u8
 #EXTINF:-1,Golden Edge
-http://201.182.251.146:37581/play/a02e/index.m3u8
+http://45.176.193.20:7837/play/a02y
 #EXTINF:-1,Golden Plus
 http://170.239.188.253:50000/play/a00n/index.m3u8
 #EXTINF:-1,Golden Premier
@@ -118,21 +120,25 @@ http://190.83.119.67:8000/play/a0t9/index.m3u8
 #EXTINF:-1,Star Channel 
 http://45.190.185.210:8080/play/a0b5
 #EXTINF:-1,Syfy
-http://188.26.202.196:8000/play/a0j6
+http://177.93.46.167:8000/play/a00i
 #EXTINF:-1,Sony 
 http://167.250.222.35:16000/play/a06n/index.m3u8
 #EXTINF:-1,Sony Movies 
 http://167.250.222.35:16000/play/a04h/index.m3u8
+#EXTINF:-1,Sun Channel 
+http://45.176.193.20:7837/play/a040
 #EXTINF:-1,Space 
 http://167.250.222.35:16000/play/a07p/index.m3u8
 #EXTINF:-1,Studio Universal 
 http://167.250.222.35:16000/play/a047/index.m3u8
 #EXTINF:-1,TBS 
-http://131.196.194.2:8000/play/a0bt/index.m3u8
+http://186.118.77.139:8000/play/a0oz/index.m3u8
 #EXTINF:-1,TNT 
 http://45.160.15.130:2909/play/109
 #EXTINF:-1,TNT Series 
 http://45.160.15.130:2909/play/108
+#EXTINF:-1,Tru Tv
+http://45.176.193.20:7837/play/a0ab
 #EXTINF:-1,TUDN 
 http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1,TUDN USA
@@ -153,6 +159,16 @@ http://167.250.222.35:16000/play/a066/index.m3u8
 http://45.228.234.185:8000/play/a0kr/index.m3u8
 #EXTINF:-1,Universal Channel 
 http://45.224.23.211:8000/play/a041/index.m3u8
+#EXTINF:-1,Viwix Series 
+http://45.176.193.20:7837/play/a06f
+#EXTINF:-1,Viwix Estrenos
+http://45.176.193.20:7837/play/a06a
+#EXTINF:-1,Viwix Musica
+http://45.176.193.20:7837/play/a06d
+#EXTINF:-1,Viwix Terror
+http://45.176.193.20:7837/play/a06b
+#EXTINF:-1,Viwix Kids
+http://45.176.193.20:7837/play/a077
 #EXTINF:-1,VideoRola
 http://190.61.102.67:31589/play/a04c/index.m3u8
 #EXTINF:-1,Warner Channel 
