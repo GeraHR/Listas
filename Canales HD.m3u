@@ -31,6 +31,8 @@ http://170.239.188.253:50000/play/a01f/index.m3u8
 http://45.5.117.138:8005/play/a002/index.m3u8
 #EXTINF:-1,Boomerang 
 http://190.83.119.67:8000/play/a0pa/index.m3u8
+#EXTINF:-1,Bitme
+https://regioplay.xyz/php/SR_REGIO_201023_/tpnuevo01.php?tokennn=Regio&c=2591&f=.m3u8
 #EXTINF:-1,Cartoon Network 
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33145.ts
 #EXTINF:-1,Cinecanal 
@@ -149,10 +151,12 @@ http://45.182.21.251:33334/play/a077/index.m3u8
 http://45.228.234.185:8000/play/a0gv/index.m3u8
 #EXTINF:-1,Telehit Musica
 http://170.239.188.253:50000/play/a00o/index.m3u8
-#EXTINF:-1,Teleritmo
-http://190.61.102.67:31589/play/a03u/index.m3u8
+#EXTINF:-1,Telehit Música Plus
+http://regioplay.xyz/php/SR_REGIO_201023_/vix.php?c=419&pid=419&token=SrRegio&f=.m3u8
 #EXTINF:-1,Telehit
 http://45.5.117.138:8005/play/a001/index.m3u8
+#EXTINF:-1,Teleritmo
+http://190.61.102.67:31589/play/a03u/index.m3u8
 #EXTINF:-1,TLC 
 http://45.228.232.204:16000/play/a06g/index.m3u8
 #EXTINF:-1,Tooncast 
