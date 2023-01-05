@@ -113,6 +113,8 @@ http://45.179.164.9:8000/play/a03b/index.m3u8
 http://170.239.188.253:50000/play/a008/index.m3u8
 #EXTINF:-1,MTV00s 
 http://170.239.188.253:50000/play/a03e/index.m3u8
+#EXTINF:-1,N+ Media
+http://regioplay.xyz/php/SR_REGIO_201023_/vix.php?c=301&pid=301&token=SrRegio&f=.m3u8
 #EXTINF:-1,Nat Geo 
 http://190.115.15.177:58003/play/a00a/index.m3u8
 #EXTINF:-1,Nick2 
