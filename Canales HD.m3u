@@ -32,7 +32,7 @@ http://45.5.117.138:8005/play/a002/index.m3u8
 #EXTINF:-1,Boomerang 
 http://190.83.119.67:8000/play/a0pa/index.m3u8
 #EXTINF:-1,Bitme
-https://regioplay.xyz/php/SR_REGIO_201023_/tpnuevo01.php?tokennn=Regio&c=2591&f=.m3u8
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759.m3u8
 #EXTINF:-1,Cartoon Network 
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33145.ts
 #EXTINF:-1,Cinecanal 
