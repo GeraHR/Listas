@@ -101,6 +101,8 @@ http://201.159.115.175:2000/play/a046/index.m3u8
 http://170.239.188.253:50000/play/a01p/index.m3u8
 #EXTINF:-1,Movie Motion
 http://181.176.148.142:8000/play/a02r
+#EXTINF:-1,Mx Family 
+http://45.176.193.20:7837/play/a06c
 #EXTINF:-1,Multi Premier
 http://190.83.119.67:8000/play/a0ue/index.m3u8
 #EXTINF:-1,MTV 
@@ -141,8 +143,8 @@ http://45.160.15.130:2909/play/108
 http://45.176.193.20:7837/play/a0ab
 #EXTINF:-1,TUDN 
 http://190.61.102.67:31589/play/a08j/index.m3u8
-#EXTINF:-1,TUDN USA
-http://45.182.21.251:33334/play/a077/index.m3u8
+#EXTINF:-1,TLNovelas
+http://45.182.21.251:33334/play/a074/index.m3u8
 #EXTINF:-1,Telemundo 
 http://177.234.254.38:8000/play/a021/index.m3u8
 #EXTINF:-1,Telehit Musica
