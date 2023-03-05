@@ -26,7 +26,7 @@ http://45.190.13.50:8003/play/a02s/index.m3u8
 #EXTINF:-1,Animal Planet  
 http://170.239.188.253:50000/play/a01f/index.m3u8
 #EXTINF:-1,Boomerang 
-http://186.67.73.110:5052/play/a0kk
+http://201.218.137.227:4000/play/a03s/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://170.239.188.253:50000/play/a017/index.m3u8
 #EXTINF:-1,Cinecanal 
@@ -78,9 +78,9 @@ http://45.182.21.251:33334/play/a08d/index.m3u8
 #EXTINF:-1,HBO 
 http://200.119.222.198:25470/play/a00y/index.m3u8
 #EXTINF:-1,HBO2 
-http://190.149.66.90:16000/play/a00d/index.m3u8
+http://200.37.186.105:8000/play/a03u/index.m3u8
 #EXTINF:-1,HBO Family 
-http://190.149.66.90:16000/play/a00f/index.m3u8
+http://181.78.12.166:9000/play/a05y
 #EXTINF:-1,HBO Plus 
 http://45.190.13.50:8003/play/a023/index.m3u8
 #EXTINF:-1,HBO Xtreme 
@@ -110,11 +110,11 @@ http://181.189.246.86:58003/play/a03y/index.m3u8
 #EXTINF:-1,Paramount Channel 
 http://200.119.222.198:25470/play/a00r/index.m3u8
 #EXTINF:-1,Star Channel 
-http://190.149.66.90:16000/play/a03e/index.m3u8
+http://170.239.188.253:50000/play/a01v/index.m3u8
 #EXTINF:-1,Sony 
-http://181.78.1.217:8146/play/a0a8/index.m3u8
+http://181.78.12.166:9000/play/a03l
 #EXTINF:-1,Sony Movies 
-http://181.78.1.217:8146/play/a07f/index.m3u8
+http://181.175.41.170:8000/play/a0fg
 #EXTINF:-1,Sun Channel 
 http://170.239.188.253:50000/play/a001/index.m3u8
 #EXTINF:-1,Space 
