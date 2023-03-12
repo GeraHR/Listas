@@ -18,7 +18,7 @@ http://170.239.188.253:50000/play/a01b/index.m3u8
 #EXTINF:-1,Az Clic
 http://45.190.13.50:8002/play/a00o/index.m3u8
 #EXTINF:-1,A&E 
-http://170.239.188.253:50000/play/a02n/index.m3u8
+http://181.78.19.36:9001/play/a057
 #EXTINF:-1,AXN 
 http://181.78.24.187:8006/play/a005/index.m3u8
 #EXTINF:-1,AMC 
@@ -62,7 +62,7 @@ http://190.149.66.90:16000/play/a03c/index.m3u8
 #EXTINF:-1,FX 
 http://45.190.13.50:8003/play/a01w/index.m3u8
 #EXTINF:-1,Fox Sports 1
-http://190.43.232.167:8000/play/a06l/index.m3u8
+http://170.247.204.18:8000/play/a07k/index.m3u8
 #EXTINF:-1,Fox Sports 2 
 http://45.160.15.130:2909/play/210
 #EXTINF:-1,Fox Sports 3 
@@ -106,7 +106,7 @@ http://170.239.188.253:50000/play/a00x/index.m3u8
 #EXTINF:-1,Nick2 
 http://45.190.13.50:8000/play/a03b/index.m3u8
 #EXTINF:-1,Nickelodeon 
-http://181.189.246.86:58003/play/a03y/index.m3u8
+http://170.247.204.18:8000/play/a0f5/index.m3u8
 #EXTINF:-1,Paramount Channel 
 http://200.119.222.198:25470/play/a00r/index.m3u8
 #EXTINF:-1,Star Channel 
@@ -159,8 +159,8 @@ http://45.176.193.20:7837/play/a06b
 http://45.176.193.20:7837/play/a077
 #EXTINF:-1,VEVO Latino
 http://45.190.13.50:8000/play/a04f/index.m3u8
-#EXTINF:-1,VEVO Pop
-http://45.190.13.50:8000/play/a04e/index.m3u8
+
+
 #EXTINF:-1,VEVO R&B
 http://45.190.13.50:8000/play/a04d/index.m3u8
 #EXTINF:-1,VEVO Reggaeton & Trap
